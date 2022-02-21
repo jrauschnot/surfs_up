@@ -6,15 +6,15 @@ An analysis of Hawaii temperature data using SQLite, Jupyter, and Python to help
 ## Resources:
 
 * Data Sources:
-- SurfsUp_Challenge.ipynb
-- hawaii.sqlite
+    - SurfsUp_Challenge.ipynb
+    - hawaii.sqlite
 
-* Software: SQLite, Jupyter Notebook, Python
+* Software: SQLite, Flask, Jupyter Notebook, Python
 
 ## Results:
 1. June temps are 74.9F on average with min of 64.0F and max of 85.0F.
 2. December temps are 71.0F on average with min of 56.0F and max of 83.0F.
-3. Annual temperature is consistent throughout the year on average. 
+3. Annual temperature is consistent throughout the year on average with temps of low 80F. 
 
 <img width="129" alt="dec" src="https://user-images.githubusercontent.com/93015602/154887306-47ecf2a9-d927-4b28-aa41-146b5b8a0381.png">
 
